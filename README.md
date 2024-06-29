@@ -2,6 +2,6 @@
 SDLC 1.
 Write down your bio:
 
-- Name: Arip Subiyanto
-- Role: Data Analyst
+- Name: Lidwina Sephia
+- Role: Business Woman
 
